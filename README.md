@@ -5,7 +5,7 @@ A modern, responsive portfolio website built with **Angular** and **Server-Side 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/darshn20/portfolio-site.git
+   git clone https://github.com/Vamsi2215/Portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -40,11 +40,3 @@ npm run serve:ssr
 
 ## 🌐 Demo
 
-Check out the site: [https://darshanbhuva.vercel.app](https://darshanbhuva.vercel.app/)
-
-## 📧 Contact
-
-For questions or feedback, feel free to reach out:
-- **Email**: [darshanbhuva57@gmail.com](mailto:darshanbhuva57@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/darshan-bhuva-805170190)
-- **GitHub**: [Your GitHub Profile](https://github.com/darshn20)
