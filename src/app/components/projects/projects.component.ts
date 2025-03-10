@@ -30,14 +30,14 @@ export class ProjectsComponent {
       aosImage: 'fade-left'
     },
     {
-      title: 'Enhanced Cyber-Physical Security in IoT Through Energy Auditing',
+      title: 'Quick Service Food Delivery with React.js',
       description: [
-        'Developed a real-time anomaly detection framework to monitor energy consumption patterns, proactively identifying security threats and maintaining uninterrupted IoT functionality. Strengthened system resilience and enhanced security response accuracy using AI-powered techniques, optimizing for both energy and security requirements and ensuring faster detection of cyber anomalies across IoT infrastructures.',
-        'Improved threat detection and mitigation by 98.56% through the integration of energy auditing and AI-based anomaly detection, which secures IoT systems against cyber threats. Simultaneously increased the energy efficiency of IoT systems by the same percentage, ensuring compliance with IoT security standards while balancing security with operational cost-effectiveness.'
+        'Spearheaded the development of a React.js web application that enhanced order processing efficiency and user interface responsiveness by 35%. This integration facilitated real-time interactions and streamlined operations, leading to a 20% increase in order fulfillment rates and a 15% reduction in customer support tickets.',
+        'Improved system uptime and reliability to 99% through robust cloud solutions and real-time data synchronization. This upgrade ensured seamless order placement and management, significantly enhancing the precision and speed of food delivery services and bolstering customer loyalty.'
       ],
-      techStack: ['IoT Security Standards Compliance Software', 'IoT Device Management Platforms', 'AI-powered Risk Management Systems', 'Energy Auditing Tools'],
+      techStack: ['React', 'Firebase'],
 
-      image: '/assets/cy.webp',
+      image: '/assets/food.webp',
       aosImage: 'fade-right'
     },
   ];
